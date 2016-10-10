@@ -1,0 +1,5 @@
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\06.PrintNumbers\bin\Debug\06.PrintNumbers.exe.config
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\06.PrintNumbers\bin\Debug\06.PrintNumbers.exe
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\06.PrintNumbers\bin\Debug\06.PrintNumbers.pdb
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\06.PrintNumbers\obj\Debug\06.PrintNumbers.exe
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\06.PrintNumbers\obj\Debug\06.PrintNumbers.pdb

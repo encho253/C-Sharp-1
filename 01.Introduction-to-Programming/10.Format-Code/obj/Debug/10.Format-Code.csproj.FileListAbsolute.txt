@@ -1,0 +1,5 @@
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\10.Format-Code\bin\Debug\10.Format-Code.exe.config
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\10.Format-Code\bin\Debug\10.Format-Code.exe
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\10.Format-Code\bin\Debug\10.Format-Code.pdb
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\10.Format-Code\obj\Debug\10.Format-Code.exe
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\10.Format-Code\obj\Debug\10.Format-Code.pdb

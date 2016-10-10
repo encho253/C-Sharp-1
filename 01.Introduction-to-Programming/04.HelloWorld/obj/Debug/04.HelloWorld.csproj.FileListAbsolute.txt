@@ -1,0 +1,9 @@
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\01.Introduction-to-Programming\04.HelloWorld\bin\Debug\04.HelloWorld.exe.config
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\01.Introduction-to-Programming\04.HelloWorld\bin\Debug\04.HelloWorld.exe
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\01.Introduction-to-Programming\04.HelloWorld\bin\Debug\04.HelloWorld.pdb
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\01.Introduction-to-Programming\04.HelloWorld\obj\Debug\04.HelloWorld.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\01.Introduction-to-Programming\04.HelloWorld\obj\Debug\04.HelloWorld.exe
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\01.Introduction-to-Programming\04.HelloWorld\obj\Debug\04.HelloWorld.pdb
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\04.HelloWorld\bin\Debug\04.HelloWorld.exe.config
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\04.HelloWorld\obj\Debug\04.HelloWorld.exe
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\04.HelloWorld\obj\Debug\04.HelloWorld.pdb

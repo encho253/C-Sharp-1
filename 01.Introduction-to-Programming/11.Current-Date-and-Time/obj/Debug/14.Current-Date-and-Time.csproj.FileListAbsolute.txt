@@ -1,0 +1,3 @@
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\11.Current-Date-and-Time\bin\Debug\11.Current-Date-and-Time.exe.config
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\11.Current-Date-and-Time\obj\Debug\11.Current-Date-and-Time.exe
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\11.Current-Date-and-Time\obj\Debug\11.Current-Date-and-Time.pdb

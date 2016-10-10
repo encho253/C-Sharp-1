@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\16.Print-Long-Sequence\bin\Debug\16.Print-Long-Sequence.exe.config
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\16.Print-Long-Sequence\bin\Debug\16.Print-Long-Sequence.exe
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\16.Print-Long-Sequence\bin\Debug\16.Print-Long-Sequence.pdb
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\16.Print-Long-Sequence\obj\Debug\16.Print-Long-Sequence.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\16.Print-Long-Sequence\obj\Debug\16.Print-Long-Sequence.exe
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\16.Print-Long-Sequence\obj\Debug\16.Print-Long-Sequence.pdb
