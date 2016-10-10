@@ -20,7 +20,7 @@ class ComparingFloats
         {
             Console.WriteLine(true);
         }
-        else
+        else if(eps <= assume)
         {
             Console.WriteLine(false);
         }
