@@ -1,0 +1,12 @@
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\Age\bin\Debug\Age.exe.config
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\Age\bin\Debug\Age.exe
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\Age\bin\Debug\Age.pdb
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\Age\obj\Debug\15.Age.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\Age\obj\Debug\Age.exe
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\Age\obj\Debug\Age.pdb
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\15.Age\bin\Debug\Age.exe.config
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\15.Age\obj\Debug\Age.exe
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\15.Age\obj\Debug\Age.pdb
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\15.Age\bin\Debug\Age.exe
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\15.Age\bin\Debug\Age.pdb
+D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\15.Age\obj\Debug\15.Age.csprojResolveAssemblyReference.cache
