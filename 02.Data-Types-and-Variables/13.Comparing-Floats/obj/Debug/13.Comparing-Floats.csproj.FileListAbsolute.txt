@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\13.Comparing-Floats\bin\Debug\13.Comparing-Floats.exe.config
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\13.Comparing-Floats\bin\Debug\13.Comparing-Floats.exe
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\13.Comparing-Floats\bin\Debug\13.Comparing-Floats.pdb
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\13.Comparing-Floats\obj\Debug\13.Comparing-Floats.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\13.Comparing-Floats\obj\Debug\13.Comparing-Floats.exe
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\13.Comparing-Floats\obj\Debug\13.Comparing-Floats.pdb

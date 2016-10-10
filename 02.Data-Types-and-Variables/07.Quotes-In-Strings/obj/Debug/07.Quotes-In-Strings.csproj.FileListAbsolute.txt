@@ -1,0 +1,11 @@
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe.config
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.exe
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.pdb
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\07.Quotes-In-Strings\bin\Debug\07.QuotesInStrings.exe.config
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\07.Quotes-In-Strings\obj\Debug\07.QuotesInStrings.exe
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\07.Quotes-In-Strings\obj\Debug\07.QuotesInStrings.pdb
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\07.Quotes-In-Strings\bin\Debug\07.QuotesInStrings.exe
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\07.Quotes-In-Strings\bin\Debug\07.QuotesInStrings.pdb
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\07.Quotes-In-Strings\obj\Debug\07.Quotes-In-Strings.csprojResolveAssemblyReference.cache

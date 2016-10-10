@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\14.Print-The-ASCII-Table\bin\Debug\14.Print-The-ASCII-Table.exe.config
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\14.Print-The-ASCII-Table\bin\Debug\14.Print-The-ASCII-Table.exe
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\14.Print-The-ASCII-Table\bin\Debug\14.Print-The-ASCII-Table.pdb
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\14.Print-The-ASCII-Table\obj\Debug\14.Print-The-ASCII-Table.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\14.Print-The-ASCII-Table\obj\Debug\14.Print-The-ASCII-Table.exe
+D:\GitHub2016-2017\CSharp-I\02.Data-Types-and-Variables\14.Print-The-ASCII-Table\obj\Debug\14.Print-The-ASCII-Table.pdb
