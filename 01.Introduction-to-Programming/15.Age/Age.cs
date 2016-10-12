@@ -14,23 +14,25 @@ class Age
     static void Main()
     {
         string date = Console.ReadLine();
-        string format = "mm.dd.yyyy";
+        string format = "MM.dd.yyyy";
         int afterTenYears = 0;
         int ageNow = 0;
 
         DateTime birhtdate = DateTime.ParseExact(date, format, CultureInfo.InvariantCulture);
 
         ageNow = DateTime.Today.Year - birhtdate.Year;
-        afterTenYears = DateTime.Today.Year - birhtdate.Year + 10;
+        afterTenYears = DateTime.Today.Year - birhtdate.Year + 10;     
 
-        if (birhtdate.Day > DateTime.Today.Day && birhtdate.Month <= DateTime.Today.Month)
+        if (DateTime.Today.Day < birhtdate.Day && 
+            DateTime.Today.Month <= birhtdate.Month && 
+            birhtdate.Year <= DateTime.Today.Year)
         {
             Console.WriteLine(ageNow - 1);
             Console.WriteLine(afterTenYears - 1);
         }
-        else
+        else if (birhtdate.Year <= DateTime.Today.Year)
         {
-            Console.WriteLine(ageNow);          
+            Console.WriteLine(ageNow);
             Console.WriteLine(afterTenYears);
         }
     }
