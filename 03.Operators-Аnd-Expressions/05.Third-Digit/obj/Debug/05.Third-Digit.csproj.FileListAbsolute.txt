@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\05.Third-Digit\bin\Debug\05.Third-Digit.exe.config
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\05.Third-Digit\bin\Debug\05.Third-Digit.exe
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\05.Third-Digit\bin\Debug\05.Third-Digit.pdb
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\05.Third-Digit\obj\Debug\05.Third-Digit.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\05.Third-Digit\obj\Debug\05.Third-Digit.exe
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\05.Third-Digit\obj\Debug\05.Third-Digit.pdb

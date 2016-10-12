@@ -1,0 +1,12 @@
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\03.Odd-Or-Even\bin\Debug\03.Odd-Or-Even.exe.config
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\03.Odd-Or-Even\bin\Debug\03.Odd-Or-Even.exe
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\03.Odd-Or-Even\bin\Debug\03.Odd-Or-Even.pdb
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\03.Odd-Or-Even\obj\Debug\01.Odd-Or-Even.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\03.Odd-Or-Even\obj\Debug\03.Odd-Or-Even.exe
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\03.Odd-Or-Even\obj\Debug\03.Odd-Or-Even.pdb
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\01.Odd-Or-Even\bin\Debug\03.Odd-Or-Even.exe.config
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\01.Odd-Or-Even\obj\Debug\03.Odd-Or-Even.exe
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\01.Odd-Or-Even\obj\Debug\03.Odd-Or-Even.pdb
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\01.Odd-Or-Even\bin\Debug\03.Odd-Or-Even.exe
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\01.Odd-Or-Even\bin\Debug\03.Odd-Or-Even.pdb
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\01.Odd-Or-Even\obj\Debug\01.Odd-Or-Even.csprojResolveAssemblyReference.cache

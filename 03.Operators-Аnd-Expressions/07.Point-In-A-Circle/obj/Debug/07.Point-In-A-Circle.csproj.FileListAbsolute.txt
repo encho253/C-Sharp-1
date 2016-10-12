@@ -1,0 +1,1 @@
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\07.Point-In-A-Circle\bin\Debug\07.Point-In-A-Circle.exe.config

@@ -11,7 +11,7 @@ class SquareRoot
     static void Main()
     {
         int a = 12345;
-        Console.WriteLine("Square Root of 12345 is {0}", a * a);
+        Console.WriteLine(a * a);
     }
 }
 

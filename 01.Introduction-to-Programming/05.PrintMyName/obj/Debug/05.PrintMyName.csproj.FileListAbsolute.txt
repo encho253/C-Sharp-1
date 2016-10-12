@@ -1,6 +1,0 @@
-D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\05.PrintMyName\bin\Debug\05.PrintMyName.exe.config
-D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\05.PrintMyName\bin\Debug\05.PrintMyName.exe
-D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\05.PrintMyName\bin\Debug\05.PrintMyName.pdb
-D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\05.PrintMyName\obj\Debug\05.PrintMyName.csprojResolveAssemblyReference.cache
-D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\05.PrintMyName\obj\Debug\05.PrintMyName.exe
-D:\GitHub2016-2017\CSharp-I\01.Introduction-to-Programming\05.PrintMyName\obj\Debug\05.PrintMyName.pdb

@@ -12,8 +12,7 @@ class Age
     /// Defines the entry point of the application.
     /// </summary>
     static void Main()
-    {
-        Console.WriteLine("Please , enter birthdate in the format MM.DD.YYYY");
+    {     
         string date = Console.ReadLine();
         string format = "mm.dd.yyyy";
         int afterTenYears = 0;

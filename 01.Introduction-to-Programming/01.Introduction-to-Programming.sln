@@ -5,19 +5,11 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.HelloWorld", "04.HelloWorld\04.HelloWorld.csproj", "{2F7D1672-F31A-4F3A-A4B8-AB90AF3CA967}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PrintMyName", "05.PrintMyName\05.PrintMyName.csproj", "{9B263FC2-E715-4A48-9344-E8E29F33F158}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.PrintNumbers", "06.PrintNumbers\06.PrintNumbers.csproj", "{231B0E72-576C-4231-8132-73C98A2E9D02}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.First-and-Last-Name", "07.First-and-Last-Name\07.First-and-Last-Name.csproj", "{AC1ABC99-E1D2-4D64-AFEA-57B68DDE17C6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Square-Root", "08.Square-Root\08.Square-Root.csproj", "{6C07411D-23B9-4768-B550-CAF6D08654DB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Print-Sequence", "09.Print-Sequence\09.Print-Sequence.csproj", "{ED34859E-69E8-4AE7-8523-526E58087A9A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Format-Code", "10.Format-Code\10.Format-Code.csproj", "{63D6BBF0-C34E-42CB-A1EE-9D82A6F378FA}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.Current-Date-and-Time", "11.Current-Date-and-Time\14.Current-Date-and-Time.csproj", "{40CD9C77-8AB4-4869-87D6-B496E6B4EDB1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.Print-Long-Sequence", "16.Print-Long-Sequence\16.Print-Long-Sequence.csproj", "{E1033245-744C-46F1-B7D6-8A7BE1A35C86}"
 EndProject
@@ -33,18 +25,10 @@ Global
 		{2F7D1672-F31A-4F3A-A4B8-AB90AF3CA967}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F7D1672-F31A-4F3A-A4B8-AB90AF3CA967}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F7D1672-F31A-4F3A-A4B8-AB90AF3CA967}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9B263FC2-E715-4A48-9344-E8E29F33F158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9B263FC2-E715-4A48-9344-E8E29F33F158}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9B263FC2-E715-4A48-9344-E8E29F33F158}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9B263FC2-E715-4A48-9344-E8E29F33F158}.Release|Any CPU.Build.0 = Release|Any CPU
 		{231B0E72-576C-4231-8132-73C98A2E9D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{231B0E72-576C-4231-8132-73C98A2E9D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{231B0E72-576C-4231-8132-73C98A2E9D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{231B0E72-576C-4231-8132-73C98A2E9D02}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AC1ABC99-E1D2-4D64-AFEA-57B68DDE17C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC1ABC99-E1D2-4D64-AFEA-57B68DDE17C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC1ABC99-E1D2-4D64-AFEA-57B68DDE17C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC1ABC99-E1D2-4D64-AFEA-57B68DDE17C6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6C07411D-23B9-4768-B550-CAF6D08654DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6C07411D-23B9-4768-B550-CAF6D08654DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C07411D-23B9-4768-B550-CAF6D08654DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -53,14 +37,6 @@ Global
 		{ED34859E-69E8-4AE7-8523-526E58087A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED34859E-69E8-4AE7-8523-526E58087A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED34859E-69E8-4AE7-8523-526E58087A9A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{63D6BBF0-C34E-42CB-A1EE-9D82A6F378FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{63D6BBF0-C34E-42CB-A1EE-9D82A6F378FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{63D6BBF0-C34E-42CB-A1EE-9D82A6F378FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{63D6BBF0-C34E-42CB-A1EE-9D82A6F378FA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{40CD9C77-8AB4-4869-87D6-B496E6B4EDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{40CD9C77-8AB4-4869-87D6-B496E6B4EDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{40CD9C77-8AB4-4869-87D6-B496E6B4EDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{40CD9C77-8AB4-4869-87D6-B496E6B4EDB1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E1033245-744C-46F1-B7D6-8A7BE1A35C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E1033245-744C-46F1-B7D6-8A7BE1A35C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1033245-744C-46F1-B7D6-8A7BE1A35C86}.Release|Any CPU.ActiveCfg = Release|Any CPU

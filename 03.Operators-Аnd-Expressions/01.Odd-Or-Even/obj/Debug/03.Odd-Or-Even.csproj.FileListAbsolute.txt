@@ -1,0 +1,1 @@
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\03.Odd-Or-Even\bin\Debug\03.Odd-Or-Even.exe.config
