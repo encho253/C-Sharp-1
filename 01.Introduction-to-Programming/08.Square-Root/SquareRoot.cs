@@ -10,8 +10,7 @@ class SquareRoot
     /// </summary>
     static void Main()
     {
-        int a = 12345;
-        Console.WriteLine(a * a);
+        Console.WriteLine(Math.Sqrt(12345));
     }
 }
 

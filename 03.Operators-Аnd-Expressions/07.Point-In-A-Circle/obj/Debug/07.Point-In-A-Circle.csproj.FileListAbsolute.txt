@@ -1,1 +1,6 @@
 D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\07.Point-In-A-Circle\bin\Debug\07.Point-In-A-Circle.exe.config
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\07.Point-In-A-Circle\bin\Debug\07.Point-In-A-Circle.exe
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\07.Point-In-A-Circle\bin\Debug\07.Point-In-A-Circle.pdb
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\07.Point-In-A-Circle\obj\Debug\07.Point-In-A-Circle.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\07.Point-In-A-Circle\obj\Debug\07.Point-In-A-Circle.exe
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\07.Point-In-A-Circle\obj\Debug\07.Point-In-A-Circle.pdb
