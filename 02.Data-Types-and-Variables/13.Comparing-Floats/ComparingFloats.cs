@@ -18,11 +18,11 @@ class ComparingFloats
 
         if (eps > assume)
         {
-            Console.WriteLine(true);
+            Console.WriteLine("true");
         }
         else if(eps <= assume)
         {
-            Console.WriteLine(false);
+            Console.WriteLine("false");
         }
 
 
