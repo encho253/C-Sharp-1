@@ -18,4 +18,3 @@ class MoonGravity
         Console.WriteLine("{0:0.000}",weightMoon);
     }
 }
-

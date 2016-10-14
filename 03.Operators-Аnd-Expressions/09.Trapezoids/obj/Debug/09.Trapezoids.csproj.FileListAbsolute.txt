@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\09.Trapezoids\obj\Debug\09.Trapezoids.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

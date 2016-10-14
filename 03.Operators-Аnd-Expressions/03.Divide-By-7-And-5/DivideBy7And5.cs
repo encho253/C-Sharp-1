@@ -26,4 +26,3 @@ class DivideBy7And5
         }
     }
 }
-

@@ -27,4 +27,3 @@ class FourDigits
         Console.WriteLine("{0}{1}{2}{3}", a, c, b, d);
     }
 }
-

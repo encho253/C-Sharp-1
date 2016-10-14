@@ -14,7 +14,7 @@ class ComparingFloats
         double secondNumber = double.Parse(Console.ReadLine());
 
         double eps = 0.000001;
-        double assume = (firstNumber - secondNumber) * -1;
+        double assume = Math.Abs(firstNumber - secondNumber);
 
         if (eps > assume)
         {
@@ -24,8 +24,5 @@ class ComparingFloats
         {
             Console.WriteLine("false");
         }
-
-
     }
 }
-
