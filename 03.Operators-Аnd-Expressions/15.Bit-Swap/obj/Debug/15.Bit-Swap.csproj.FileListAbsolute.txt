@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\15.Bit-Swap\bin\Debug\15.Bit-Swap.exe.config
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\15.Bit-Swap\bin\Debug\15.Bit-Swap.exe
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\15.Bit-Swap\bin\Debug\15.Bit-Swap.pdb
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\15.Bit-Swap\obj\Debug\15.Bit-Swap.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\15.Bit-Swap\obj\Debug\15.Bit-Swap.exe
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\15.Bit-Swap\obj\Debug\15.Bit-Swap.pdb
