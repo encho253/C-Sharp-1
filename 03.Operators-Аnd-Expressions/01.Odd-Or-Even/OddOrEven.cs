@@ -11,8 +11,7 @@ class OddOrEven
     /// Defines the entry point of the application.
     /// </summary>
     static void Main()
-    {
-        Console.WriteLine("Please, enter a integer number");
+    {      
         int evenOrOdd = int.Parse(Console.ReadLine());
 
         if (evenOrOdd % 2 == 0)

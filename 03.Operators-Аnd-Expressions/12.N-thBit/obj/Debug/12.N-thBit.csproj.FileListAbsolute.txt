@@ -3,3 +3,4 @@ D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\12.N-thBit\bin\Debug\1
 D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\12.N-thBit\bin\Debug\12.N-thBit.pdb
 D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\12.N-thBit\obj\Debug\12.N-thBit.exe
 D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\12.N-thBit\obj\Debug\12.N-thBit.pdb
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\12.N-thBit\obj\Debug\12.N-thBit.csprojResolveAssemblyReference.cache

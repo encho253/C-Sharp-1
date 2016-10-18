@@ -28,7 +28,7 @@ class PrimeCheck
             {
                 isPrime = false;
             }
-            Console.WriteLine(isPrime);
+            Console.WriteLine(isPrime.ToString().ToLower());
         }
     }
 }

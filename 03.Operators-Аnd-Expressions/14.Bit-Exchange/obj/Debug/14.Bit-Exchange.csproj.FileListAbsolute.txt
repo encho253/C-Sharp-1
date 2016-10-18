@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\14.Bit-Exchange\bin\Debug\14.Bit-Exchange.exe.config
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\14.Bit-Exchange\bin\Debug\14.Bit-Exchange.exe
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\14.Bit-Exchange\bin\Debug\14.Bit-Exchange.pdb
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\14.Bit-Exchange\obj\Debug\14.Bit-Exchange.exe
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\14.Bit-Exchange\obj\Debug\14.Bit-Exchange.pdb
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\14.Bit-Exchange\obj\Debug\14.Bit-Exchange.csprojResolveAssemblyReference.cache

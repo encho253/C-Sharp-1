@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\13.Modify-Bit\bin\Debug\13.Modify-Bit.exe.config
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\13.Modify-Bit\bin\Debug\13.Modify-Bit.exe
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\13.Modify-Bit\bin\Debug\13.Modify-Bit.pdb
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\13.Modify-Bit\obj\Debug\13.Modify-Bit.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\13.Modify-Bit\obj\Debug\13.Modify-Bit.exe
+D:\GitHub2016-2017\CSharp-I\03.Operators-Аnd-Expressions\13.Modify-Bit\obj\Debug\13.Modify-Bit.pdb

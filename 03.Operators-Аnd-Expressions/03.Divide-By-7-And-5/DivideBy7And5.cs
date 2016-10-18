@@ -12,17 +12,16 @@ class DivideBy7And5
     /// Defines the entry point of the application.
     /// </summary>
     static void Main()
-    {
-        Console.WriteLine("Enter a number:");
+    {     
         int value = int.Parse(Console.ReadLine());
 
         if (value % 5 == 0 && value % 7 == 0)
         {
-            Console.WriteLine(true + " " + value);
+            Console.WriteLine("true {0}",value);
         }
         else
         {
-            Console.WriteLine(false + " " + value);
+            Console.WriteLine("false {0}",value);
         }
     }
 }

@@ -12,8 +12,8 @@ class PointCircleRectangle
     /// </summary>
     static void Main()
     {
-        float x = float.Parse(Console.ReadLine());
-        float y = float.Parse(Console.ReadLine());
+        double x = double.Parse(Console.ReadLine());
+        double y = double.Parse(Console.ReadLine());
 
         if (x >= -1000 && x <= 1000 && y >= -1000 && y <= 1000)
         {

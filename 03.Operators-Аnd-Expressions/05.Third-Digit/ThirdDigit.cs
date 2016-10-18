@@ -16,11 +16,11 @@ class ThirdDigit
         n = (n / 100) % 10;
         if (n == 7)
         {
-            Console.WriteLine(true);
+            Console.WriteLine("true");
         }
         else
         {
-            Console.WriteLine(false + " {0}",n);
+            Console.WriteLine("false {0}",n);
         }
     }
 }
