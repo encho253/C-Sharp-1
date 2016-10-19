@@ -51,4 +51,3 @@ class BitSwap
         Console.WriteLine(number);    
     }
 }
-
