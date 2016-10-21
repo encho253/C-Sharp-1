@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\07.Exams\05.MalkoKote\bin\Debug\05.MalkoKote.exe.config
+D:\GitHub2016-2017\CSharp-I\07.Exams\05.MalkoKote\bin\Debug\05.MalkoKote.exe
+D:\GitHub2016-2017\CSharp-I\07.Exams\05.MalkoKote\bin\Debug\05.MalkoKote.pdb
+D:\GitHub2016-2017\CSharp-I\07.Exams\05.MalkoKote\obj\Debug\05.MalkoKote.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\07.Exams\05.MalkoKote\obj\Debug\05.MalkoKote.exe
+D:\GitHub2016-2017\CSharp-I\07.Exams\05.MalkoKote\obj\Debug\05.MalkoKote.pdb

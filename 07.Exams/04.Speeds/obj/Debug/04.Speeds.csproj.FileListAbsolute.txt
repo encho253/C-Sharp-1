@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\07.Exams\04.Speeds\bin\Debug\04.Speeds.exe.config
+D:\GitHub2016-2017\CSharp-I\07.Exams\04.Speeds\bin\Debug\04.Speeds.exe
+D:\GitHub2016-2017\CSharp-I\07.Exams\04.Speeds\bin\Debug\04.Speeds.pdb
+D:\GitHub2016-2017\CSharp-I\07.Exams\04.Speeds\obj\Debug\04.Speeds.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\07.Exams\04.Speeds\obj\Debug\04.Speeds.exe
+D:\GitHub2016-2017\CSharp-I\07.Exams\04.Speeds\obj\Debug\04.Speeds.pdb

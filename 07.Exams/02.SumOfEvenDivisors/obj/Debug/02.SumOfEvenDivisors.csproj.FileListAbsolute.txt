@@ -1,0 +1,1 @@
+D:\GitHub2016-2017\CSharp-I\07.Exams\02.SumOfEvenDivisors\bin\Debug\02.SumOfEvenDivisors.exe.config
