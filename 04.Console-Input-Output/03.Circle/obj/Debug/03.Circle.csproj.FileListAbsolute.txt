@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\03.Circle\bin\Debug\03.Circle.exe.config
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\03.Circle\bin\Debug\03.Circle.exe
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\03.Circle\bin\Debug\03.Circle.pdb
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\03.Circle\obj\Debug\03.Circle.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\03.Circle\obj\Debug\03.Circle.exe
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\03.Circle\obj\Debug\03.Circle.pdb

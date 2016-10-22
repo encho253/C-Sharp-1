@@ -1,0 +1,1 @@
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config

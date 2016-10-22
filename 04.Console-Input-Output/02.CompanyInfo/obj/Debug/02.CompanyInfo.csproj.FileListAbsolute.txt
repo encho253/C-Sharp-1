@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\02.CompanyInfo\bin\Debug\02.CompanyInfo.exe.config
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\02.CompanyInfo\bin\Debug\02.CompanyInfo.exe
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\02.CompanyInfo\bin\Debug\02.CompanyInfo.pdb
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\02.CompanyInfo\obj\Debug\02.CompanyInfo.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\02.CompanyInfo\obj\Debug\02.CompanyInfo.exe
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\02.CompanyInfo\obj\Debug\02.CompanyInfo.pdb

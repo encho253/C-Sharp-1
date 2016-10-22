@@ -1,0 +1,1 @@
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\05.NumberComparer\bin\Debug\05.NumberComparer.exe.config

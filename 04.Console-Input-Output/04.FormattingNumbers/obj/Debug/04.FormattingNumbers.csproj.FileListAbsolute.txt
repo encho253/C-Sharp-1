@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\04.FormattingNumbers\bin\Debug\04.FormattingNumbers.exe.config
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\04.FormattingNumbers\bin\Debug\04.FormattingNumbers.exe
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\04.FormattingNumbers\bin\Debug\04.FormattingNumbers.pdb
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\04.FormattingNumbers\obj\Debug\04.FormattingNumbers.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\04.FormattingNumbers\obj\Debug\04.FormattingNumbers.exe
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\04.FormattingNumbers\obj\Debug\04.FormattingNumbers.pdb

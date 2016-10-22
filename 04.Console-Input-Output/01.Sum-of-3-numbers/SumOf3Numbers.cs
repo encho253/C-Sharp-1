@@ -22,4 +22,3 @@ class SumOf3Numbers
         }      
     }
 }
-

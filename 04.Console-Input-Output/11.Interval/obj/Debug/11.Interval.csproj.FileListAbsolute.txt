@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\11.Interval\bin\Debug\11.Interval.exe.config
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\11.Interval\bin\Debug\11.Interval.exe
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\11.Interval\bin\Debug\11.Interval.pdb
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\11.Interval\obj\Debug\11.Interval.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\11.Interval\obj\Debug\11.Interval.exe
+D:\GitHub2016-2017\CSharp-I\04.Console-Input-Output\11.Interval\obj\Debug\11.Interval.pdb
