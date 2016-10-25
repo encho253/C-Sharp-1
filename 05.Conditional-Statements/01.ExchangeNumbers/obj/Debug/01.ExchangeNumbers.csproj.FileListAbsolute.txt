@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\05.Conditional-Statements\01.ExchangeNumbers\bin\Debug\01.ExchangeNumbers.exe.config
+D:\GitHub2016-2017\CSharp-I\05.Conditional-Statements\01.ExchangeNumbers\bin\Debug\01.ExchangeNumbers.exe
+D:\GitHub2016-2017\CSharp-I\05.Conditional-Statements\01.ExchangeNumbers\bin\Debug\01.ExchangeNumbers.pdb
+D:\GitHub2016-2017\CSharp-I\05.Conditional-Statements\01.ExchangeNumbers\obj\Debug\01.ExchangeNumbers.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\05.Conditional-Statements\01.ExchangeNumbers\obj\Debug\01.ExchangeNumbers.exe
+D:\GitHub2016-2017\CSharp-I\05.Conditional-Statements\01.ExchangeNumbers\obj\Debug\01.ExchangeNumbers.pdb

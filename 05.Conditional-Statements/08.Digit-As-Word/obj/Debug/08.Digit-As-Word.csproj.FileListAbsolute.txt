@@ -1,0 +1,5 @@
+D:\GitHub2016-2017\CSharp-I\05.Conditional-Statements\08.Digit-As-Word\bin\Debug\08.Digit-As-Word.exe.config
+D:\GitHub2016-2017\CSharp-I\05.Conditional-Statements\08.Digit-As-Word\bin\Debug\08.Digit-As-Word.exe
+D:\GitHub2016-2017\CSharp-I\05.Conditional-Statements\08.Digit-As-Word\bin\Debug\08.Digit-As-Word.pdb
+D:\GitHub2016-2017\CSharp-I\05.Conditional-Statements\08.Digit-As-Word\obj\Debug\08.Digit-As-Word.exe
+D:\GitHub2016-2017\CSharp-I\05.Conditional-Statements\08.Digit-As-Word\obj\Debug\08.Digit-As-Word.pdb
