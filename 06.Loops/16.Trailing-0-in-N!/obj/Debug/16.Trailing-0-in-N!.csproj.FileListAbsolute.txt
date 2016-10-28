@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\06.Loops\16.Trailing-0-in-N!\bin\Debug\16.Trailing-0-in-N!.exe.config
+D:\GitHub2016-2017\CSharp-I\06.Loops\16.Trailing-0-in-N!\bin\Debug\16.Trailing-0-in-N!.exe
+D:\GitHub2016-2017\CSharp-I\06.Loops\16.Trailing-0-in-N!\bin\Debug\16.Trailing-0-in-N!.pdb
+D:\GitHub2016-2017\CSharp-I\06.Loops\16.Trailing-0-in-N!\obj\Debug\16.Trailing-0-in-N!.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\06.Loops\16.Trailing-0-in-N!\obj\Debug\16.Trailing-0-in-N!.exe
+D:\GitHub2016-2017\CSharp-I\06.Loops\16.Trailing-0-in-N!\obj\Debug\16.Trailing-0-in-N!.pdb

@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\06.Loops\13.Decimal-To-Hex\bin\Debug\13.Decimal-To-Hex.exe.config
+D:\GitHub2016-2017\CSharp-I\06.Loops\13.Decimal-To-Hex\bin\Debug\13.Decimal-To-Hex.exe
+D:\GitHub2016-2017\CSharp-I\06.Loops\13.Decimal-To-Hex\bin\Debug\13.Decimal-To-Hex.pdb
+D:\GitHub2016-2017\CSharp-I\06.Loops\13.Decimal-To-Hex\obj\Debug\13.Decimal-To-Hex.exe
+D:\GitHub2016-2017\CSharp-I\06.Loops\13.Decimal-To-Hex\obj\Debug\13.Decimal-To-Hex.pdb
+D:\GitHub2016-2017\CSharp-I\06.Loops\13.Decimal-To-Hex\obj\Debug\13.Decimal-To-Hex.csprojResolveAssemblyReference.cache

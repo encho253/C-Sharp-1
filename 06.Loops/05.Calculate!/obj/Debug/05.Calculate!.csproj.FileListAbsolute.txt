@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\06.Loops\05.Calculate!\bin\Debug\05.Calculate!.exe.config
+D:\GitHub2016-2017\CSharp-I\06.Loops\05.Calculate!\bin\Debug\05.Calculate!.exe
+D:\GitHub2016-2017\CSharp-I\06.Loops\05.Calculate!\bin\Debug\05.Calculate!.pdb
+D:\GitHub2016-2017\CSharp-I\06.Loops\05.Calculate!\obj\Debug\05.Calculate!.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\06.Loops\05.Calculate!\obj\Debug\05.Calculate!.exe
+D:\GitHub2016-2017\CSharp-I\06.Loops\05.Calculate!\obj\Debug\05.Calculate!.pdb

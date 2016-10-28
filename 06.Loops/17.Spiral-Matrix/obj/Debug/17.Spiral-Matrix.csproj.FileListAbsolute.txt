@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\06.Loops\17.Spiral-Matrix\bin\Debug\17.Spiral-Matrix.exe.config
+D:\GitHub2016-2017\CSharp-I\06.Loops\17.Spiral-Matrix\bin\Debug\17.Spiral-Matrix.exe
+D:\GitHub2016-2017\CSharp-I\06.Loops\17.Spiral-Matrix\bin\Debug\17.Spiral-Matrix.pdb
+D:\GitHub2016-2017\CSharp-I\06.Loops\17.Spiral-Matrix\obj\Debug\17.Spiral-Matrix.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\06.Loops\17.Spiral-Matrix\obj\Debug\17.Spiral-Matrix.exe
+D:\GitHub2016-2017\CSharp-I\06.Loops\17.Spiral-Matrix\obj\Debug\17.Spiral-Matrix.pdb

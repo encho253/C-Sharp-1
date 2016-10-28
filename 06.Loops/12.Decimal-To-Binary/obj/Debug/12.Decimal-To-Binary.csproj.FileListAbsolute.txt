@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I\06.Loops\12.Decimal-To-Binary\bin\Debug\12.Decimal-To-Binary.exe.config
+D:\GitHub2016-2017\CSharp-I\06.Loops\12.Decimal-To-Binary\bin\Debug\12.Decimal-To-Binary.exe
+D:\GitHub2016-2017\CSharp-I\06.Loops\12.Decimal-To-Binary\bin\Debug\12.Decimal-To-Binary.pdb
+D:\GitHub2016-2017\CSharp-I\06.Loops\12.Decimal-To-Binary\obj\Debug\12.Decimal-To-Binary.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\06.Loops\12.Decimal-To-Binary\obj\Debug\12.Decimal-To-Binary.exe
+D:\GitHub2016-2017\CSharp-I\06.Loops\12.Decimal-To-Binary\obj\Debug\12.Decimal-To-Binary.pdb
