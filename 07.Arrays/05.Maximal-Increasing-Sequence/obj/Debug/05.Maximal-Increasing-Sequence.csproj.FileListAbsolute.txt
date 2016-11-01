@@ -1,0 +1,5 @@
+D:\GitHub2016-2017\CSharp-I\07.Arrays\05.Maximal-Increasing-Sequence\bin\Debug\05.Maximal-Increasing-Sequence.exe.config
+D:\GitHub2016-2017\CSharp-I\07.Arrays\05.Maximal-Increasing-Sequence\bin\Debug\05.Maximal-Increasing-Sequence.exe
+D:\GitHub2016-2017\CSharp-I\07.Arrays\05.Maximal-Increasing-Sequence\bin\Debug\05.Maximal-Increasing-Sequence.pdb
+D:\GitHub2016-2017\CSharp-I\07.Arrays\05.Maximal-Increasing-Sequence\obj\Debug\05.Maximal-Increasing-Sequence.exe
+D:\GitHub2016-2017\CSharp-I\07.Arrays\05.Maximal-Increasing-Sequence\obj\Debug\05.Maximal-Increasing-Sequence.pdb

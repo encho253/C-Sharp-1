@@ -1,0 +1,5 @@
+D:\GitHub2016-2017\CSharp-I\07.Arrays\02.Compare-Arrays\bin\Debug\02.Compare-Arrays.exe.config
+D:\GitHub2016-2017\CSharp-I\07.Arrays\02.Compare-Arrays\bin\Debug\02.Compare-Arrays.exe
+D:\GitHub2016-2017\CSharp-I\07.Arrays\02.Compare-Arrays\bin\Debug\02.Compare-Arrays.pdb
+D:\GitHub2016-2017\CSharp-I\07.Arrays\02.Compare-Arrays\obj\Debug\02.Compare-Arrays.exe
+D:\GitHub2016-2017\CSharp-I\07.Arrays\02.Compare-Arrays\obj\Debug\02.Compare-Arrays.pdb

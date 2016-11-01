@@ -1,6 +1,0 @@
-D:\GitHub2016-2017\CSharp-I\07.Exams\01.Sum-Of-Odd-Divisors\bin\Debug\01.Sum-Of-Odd-Divisors.exe.config
-D:\GitHub2016-2017\CSharp-I\07.Exams\01.Sum-Of-Odd-Divisors\bin\Debug\01.Sum-Of-Odd-Divisors.exe
-D:\GitHub2016-2017\CSharp-I\07.Exams\01.Sum-Of-Odd-Divisors\bin\Debug\01.Sum-Of-Odd-Divisors.pdb
-D:\GitHub2016-2017\CSharp-I\07.Exams\01.Sum-Of-Odd-Divisors\obj\Debug\01.Sum-Of-Odd-Divisors.csprojResolveAssemblyReference.cache
-D:\GitHub2016-2017\CSharp-I\07.Exams\01.Sum-Of-Odd-Divisors\obj\Debug\01.Sum-Of-Odd-Divisors.exe
-D:\GitHub2016-2017\CSharp-I\07.Exams\01.Sum-Of-Odd-Divisors\obj\Debug\01.Sum-Of-Odd-Divisors.pdb

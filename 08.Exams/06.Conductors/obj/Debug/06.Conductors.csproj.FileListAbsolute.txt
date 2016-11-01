@@ -1,0 +1,12 @@
+D:\GitHub2016-2017\CSharp-I\07.Exams\06.Conductors\bin\Debug\06.Conductors.exe.config
+D:\GitHub2016-2017\CSharp-I\07.Exams\06.Conductors\bin\Debug\06.Conductors.exe
+D:\GitHub2016-2017\CSharp-I\07.Exams\06.Conductors\bin\Debug\06.Conductors.pdb
+D:\GitHub2016-2017\CSharp-I\07.Exams\06.Conductors\obj\Debug\06.Conductors.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I\07.Exams\06.Conductors\obj\Debug\06.Conductors.exe
+D:\GitHub2016-2017\CSharp-I\07.Exams\06.Conductors\obj\Debug\06.Conductors.pdb
+D:\GitHub2016-2017\CSharp-I\08.Exams\06.Conductors\bin\Debug\06.Conductors.exe.config
+D:\GitHub2016-2017\CSharp-I\08.Exams\06.Conductors\obj\Debug\06.Conductors.exe
+D:\GitHub2016-2017\CSharp-I\08.Exams\06.Conductors\obj\Debug\06.Conductors.pdb
+D:\GitHub2016-2017\CSharp-I\08.Exams\06.Conductors\bin\Debug\06.Conductors.exe
+D:\GitHub2016-2017\CSharp-I\08.Exams\06.Conductors\bin\Debug\06.Conductors.pdb
+D:\GitHub2016-2017\CSharp-I\08.Exams\06.Conductors\obj\Debug\06.Conductors.csprojResolveAssemblyReference.cache
