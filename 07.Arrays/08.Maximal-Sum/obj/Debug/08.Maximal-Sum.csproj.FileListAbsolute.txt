@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\CSharp-I-2016-2017\07.Arrays\08.Maximal-Sum\bin\Debug\08.Maximal-Sum.exe.config
+D:\GitHub2016-2017\CSharp-I-2016-2017\07.Arrays\08.Maximal-Sum\bin\Debug\08.Maximal-Sum.exe
+D:\GitHub2016-2017\CSharp-I-2016-2017\07.Arrays\08.Maximal-Sum\bin\Debug\08.Maximal-Sum.pdb
+D:\GitHub2016-2017\CSharp-I-2016-2017\07.Arrays\08.Maximal-Sum\obj\Debug\08.Maximal-Sum.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\CSharp-I-2016-2017\07.Arrays\08.Maximal-Sum\obj\Debug\08.Maximal-Sum.exe
+D:\GitHub2016-2017\CSharp-I-2016-2017\07.Arrays\08.Maximal-Sum\obj\Debug\08.Maximal-Sum.pdb

@@ -1,0 +1,1 @@
+D:\GitHub2016-2017\CSharp-I-2016-2017\07.Arrays\18.Remove-Element-From-Array\bin\Debug\18.Remove-Element-From-Array.exe.config

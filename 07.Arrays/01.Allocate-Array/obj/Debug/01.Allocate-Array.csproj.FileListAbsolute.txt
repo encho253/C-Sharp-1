@@ -4,3 +4,6 @@ D:\GitHub2016-2017\CSharp-I\07.Arrays\01.Allocate-Array\bin\Debug\01.Allocate-Ar
 D:\GitHub2016-2017\CSharp-I\07.Arrays\01.Allocate-Array\bin\Debug\01.Allocate-Array.pdb
 D:\GitHub2016-2017\CSharp-I\07.Arrays\01.Allocate-Array\obj\Debug\01.Allocate-Array.exe
 D:\GitHub2016-2017\CSharp-I\07.Arrays\01.Allocate-Array\obj\Debug\01.Allocate-Array.pdb
+D:\GitHub2016-2017\CSharp-I-2016-2017\07.Arrays\01.Allocate-Array\bin\Debug\01.Allocate-Array.exe.config
+D:\GitHub2016-2017\CSharp-I-2016-2017\07.Arrays\01.Allocate-Array\obj\Debug\01.Allocate-Array.exe
+D:\GitHub2016-2017\CSharp-I-2016-2017\07.Arrays\01.Allocate-Array\obj\Debug\01.Allocate-Array.pdb

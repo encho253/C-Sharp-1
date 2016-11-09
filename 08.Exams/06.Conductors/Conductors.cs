@@ -27,64 +27,24 @@ class Conductors
     /// </summary>
     static void Main()
     {
-        long perforated = int.Parse(Console.ReadLine());
-        long n = long.Parse(Console.ReadLine());
+        char zero = '0';
+        char one = '1';
+        char two = '2';
+        char three = '3';
+        char four = '4';
+        char five = '5';
+        char six = '6';
+        char seven = '7';
+        char eight = '8';
+        char nine = '9';
 
-        for (int i = 0; i < n; i++)
-        {
-            long m = long.Parse(Console.ReadLine());
-            string mBin = Convert.ToString(m, 2);
-
-            for (int j = 0; j < mBin.Length; j++)
-            {
-                long mask = perforated << j;
-                if ((mask & m) == 1)
-                {
-
-                }
-            }
-        }
-        //string[] finalArray = new string[n];
-
-        //for (int i = 0; i < n; i++)
-        //{
-        //    int m = int.Parse(Console.ReadLine());
-        //    string mBin = Convert.ToString(m, 2);
-        //    string perforatedBin = Convert.ToString(perforated, 2);
-                              
-        //    string[] arrayNull = new string[perforatedBin.Length];
-                    
-        //    for (int j = 0; j < arrayNull.Length; j++)
-        //    {
-        //        arrayNull[j] = "0";
-        //    }
-
-        //    string reverse = StringHelper.ReverseString(mBin);                
-        //    string stringNull = string.Join("", arrayNull);
-        //    string replace = reverse.Replace(perforatedBin,stringNull);
-        //    string finalReverse = StringHelper.ReverseString(replace);
-
-        //    replace = finalReverse.Replace(perforatedBin, stringNull);
-        //    reverse = StringHelper.ReverseString(replace);
-        //    replace = reverse.Replace(perforatedBin, stringNull);
-        //    finalReverse = StringHelper.ReverseString(replace);
-
-        //    finalArray[i] = finalReverse;                 
-        //}
-        //for (int i = 0; i < finalArray.Length; i++)
-        //{
-        //    Console.WriteLine(Convert.ToInt32(finalArray[i], 2).ToString());
-        //}
+        string ns = (nine + two + five).ToString();
+        int n = ((nine - '0') * 10 + two - '0') * 10 + five - '0';
+        Console.WriteLine(n == int.Parse(ns));
     }
-    //static class StringHelper
-    //{
-    //    /// <summary>
-    //    /// Receives string and returns the string with its letters reversed.
-    //    /// </summary>
-    //    public static string ReverseString(string s)
-    //    {
-    //        char[] arr = s.ToCharArray();
-    //        Array.Reverse(arr);
-    //        return new string(arr);
-    //    }
-    }
+}
+
+//string reverse = StringHelper.ReverseString(mBin);
+//string stringNull = string.Join("", arrayNull);
+//string replace = reverse.Replace(perforatedBin, stringNull);
+//string finalReverse = StringHelper.ReverseString(replace);

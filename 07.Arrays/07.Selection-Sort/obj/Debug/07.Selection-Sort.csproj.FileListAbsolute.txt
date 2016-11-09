@@ -4,3 +4,9 @@ D:\GitHub2016-2017\CSharp-I\07.Arrays\07.Selection-Sort\bin\Debug\07.Selection-S
 D:\GitHub2016-2017\CSharp-I\07.Arrays\07.Selection-Sort\obj\Debug\07.Selection-Sort.csprojResolveAssemblyReference.cache
 D:\GitHub2016-2017\CSharp-I\07.Arrays\07.Selection-Sort\obj\Debug\07.Selection-Sort.exe
 D:\GitHub2016-2017\CSharp-I\07.Arrays\07.Selection-Sort\obj\Debug\07.Selection-Sort.pdb
+D:\GitHub2016-2017\CSharp-I-2016-2017\07.Arrays\07.Selection-Sort\bin\Debug\07.Selection-Sort.exe.config
+D:\GitHub2016-2017\CSharp-I-2016-2017\07.Arrays\07.Selection-Sort\obj\Debug\07.Selection-Sort.exe
+D:\GitHub2016-2017\CSharp-I-2016-2017\07.Arrays\07.Selection-Sort\obj\Debug\07.Selection-Sort.pdb
+D:\GitHub2016-2017\CSharp-I-2016-2017\07.Arrays\07.Selection-Sort\bin\Debug\07.Selection-Sort.exe
+D:\GitHub2016-2017\CSharp-I-2016-2017\07.Arrays\07.Selection-Sort\bin\Debug\07.Selection-Sort.pdb
+D:\GitHub2016-2017\CSharp-I-2016-2017\07.Arrays\07.Selection-Sort\obj\Debug\07.Selection-Sort.csprojResolveAssemblyReference.cache
